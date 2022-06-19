@@ -1,0 +1,38 @@
+id: IF1877860
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T14:23:54.628956'
+last_modified: '2022-06-19T14:23:54.628973'
+parser: null
+source_metadata:
+  title: Autobiography of Chos rje Rin chen seng ge; Lamdre Lobshe, vol. ka, title
+    no. 14, from the chronological biographies of the Lamdre lineage masters
+  author: ཤངས་ཀྱི་བླ་མ་ཆོས་རྗེ་རིན་སེང་པ།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2013-08-16);
+    converted from external file, unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:རྫོང་སར་ཁམས་བྱེའི་ལྔ་རིག་སློབ་གླིང་། སྡེ་དགེ་རྫོང་སར། (dzkj)
+  - Editorial process:Mathias Fermer (mf), Kunga Dorje (kun)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/191
+  bases:
+    ce5b:
+      title: Autobiography of Chos rje Rin chen seng ge; Lamdre Lobshe, vol. ka, title
+        no. 14, from the chronological biographies of the Lamdre lineage masters
+      order: 1
+      base_file: ce5b.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
